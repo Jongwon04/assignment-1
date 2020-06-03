@@ -14,7 +14,8 @@
 12.	IT	
 13.	MIS 	
 14.	GUI 	
-15.	BIT 	
+15.	BIT 	Binary digit
+  Bit is a small memory where computer can store       
 16.	AWS 	
 17.	GPU 	
 18.	POST	
@@ -38,7 +39,8 @@
 36.	O365 	
 37.	GHz 	
 38.	WYSIWYG 
-39.	RAID	
+39.	RAID	 Redundant array of inexpensive disks
+   Term of protecting data and improving peformance of storing data
 40.	SCSI 	
 41.	P2P 	
 42.	UPS 	
@@ -62,7 +64,8 @@
 60.	DBMS	
 61.	W3C	
 62.	XML	
-63.	VPN
+63.	VPN    Virtual Private Network
+  It gives you online privacy and anonymity by creating a private network from a public internet connection
 64.	RTF
 65.	IDE
 66.	SATA
